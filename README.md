@@ -1,5 +1,6 @@
-
-![bubududu-food](https://github.com/danibenfica/Meu-Livro-de-Receitas/assets/103818625/56429af2-5eca-4d98-8870-25b426f345c2)
+<div align="center">
+  <img src="https://media.tenor.com/8vB6Rw4l4I8AAAAC/bubududu-food.gif">
+</div>
 
 <h1>Livro de Receitas</h1> 
 
